@@ -4,5 +4,3 @@ I am a fast learner who adapts quickly to change and eager to learn new methods 
 Skills: REACT / JS / HTML / CSS / PHP / Laravel  / C# / Java / C / C++
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHShoumik)

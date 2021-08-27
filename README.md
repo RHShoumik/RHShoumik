@@ -5,8 +5,6 @@ Skills: REACT / JS / HTML / CSS / PHP / Laravel  / C# / Java / C / C++
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHShoumik)](https://github.com/anuraghazra/github-readme-stats)
- 
-![GitHub metrics](https://metrics.lecoq.io/RHShoumik)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHShoumik)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Profile views](https://gpvc.arturio.dev/RHShoumik)  

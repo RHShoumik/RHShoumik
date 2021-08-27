@@ -9,9 +9,9 @@ Skills: REACT / JS / HTML / CSS / PHP / Laravel  / C# / Java / C / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RHShoumik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ragib-hassan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rhshoumik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rhshoumik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RHShoumik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/users/10228573/rhshoumik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rhshoumik.com/)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHShoumik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHShoumik)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHShoumik)  
 

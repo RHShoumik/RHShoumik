@@ -3,9 +3,9 @@ I am a fast learner who adapts quickly to change and eager to learn new methods 
 
 Skills: JavaScript / NodeJs / ExpressJs / MongoDB
 
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) 
 
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
   
   
   

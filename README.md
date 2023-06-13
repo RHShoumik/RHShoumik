@@ -5,7 +5,5 @@ Skills: JavaScript / React JS/ NodeJs / ExpressJs / MongoDB
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RHShoumik) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHShoumik&show_icons=true)
-
 
 

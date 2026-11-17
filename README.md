@@ -112,7 +112,33 @@ const ragib = {
       <p><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Chart.js</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📺 <a href="https://www.rhshoumik.dev/blog/building-a-tv-media-planning-tool-with-react">Media Planning Tool</a></h3>
+      <p>TV campaign planning for media agencies: an 11-step wizard, spot allocation across channels and days, a pure GRP/CPRP calculation engine, Excel rate-card import and a 5-sheet Excel export.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Zustand</code> <code>Tailwind</code> <code>Excel</code></p>
+      <a href="https://www.rhshoumik.dev/blog/building-a-tv-media-planning-tool-with-react">How I built it</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏪 <a href="https://hextechbd.com">Hextech BD</a></h3>
+      <p>Multi-vendor marketplace with storefront, vendor dashboards and an admin panel, four payment gateways, AI tools and 17 languages including right-to-left Arabic.</p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>MongoDB</code> <code>Tailwind</code> <code>Stripe</code></p>
+      <a href="https://www.rhshoumik.dev/blog/building-a-multi-vendor-marketplace-with-nextjs">How I built it</a>
+    </td>
+  </tr>
 </table>
+
+<br>
+
+## ✍️ Latest writing
+
+| Post | About |
+|---|---|
+| [Building a Multi-Vendor Marketplace with Next.js 16 and MongoDB](https://www.rhshoumik.dev/blog/building-a-multi-vendor-marketplace-with-nextjs) | Permissions, four payment gateways and 17 languages behind Hextech BD |
+| [Building a TV Media Planning Tool with React 19, Zustand and Excel](https://www.rhshoumik.dev/blog/building-a-tv-media-planning-tool-with-react) | An 11-step wizard, a pure GRP engine and Excel in and out |
+| [How I Built a 3D Space Game Portfolio with Three.js](https://www.rhshoumik.dev/blog/building-a-3d-space-game-portfolio-with-threejs) | Flight, landings and an astronaut, in the browser |
+
+More at [rhshoumik.dev/blog](https://www.rhshoumik.dev/blog).
 
 <br>
 
@@ -122,7 +148,7 @@ const ragib = {
 |---|---|---|---|
 | 🟢 | Front-End Engineer | **JustGo Technologies** — membership management for clubs and national governing bodies | Apr 2024 → now |
 | ⚪ | Software Engineer I | **6amTech** — 6amMart & StackFood | 2023 → 2024 |
-| ⚪ | Frontend Developer | **HypeScout** (Singapore) | 2022 → 2023 |
+| ⚪ | Frontend Developer | **HypeScout** (Dhaka) | 2022 → 2023 |
 | ⚪ | Junior Frontend Developer | **Workspace InfoTech** | 2020 → 2021 |
 
 <br>

@@ -126,6 +126,18 @@ const ragib = {
       <a href="https://www.rhshoumik.dev/blog/building-a-multi-vendor-marketplace-with-nextjs">How I built it</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://free-invoice-generator.rhshoumik.dev/">Free Invoice Generator</a></h3>
+      <p>Make a professional invoice online in one click: 100+ templates, download as PDF or PNG, no sign-up and no watermark.</p>
+      <p><code>100+ templates</code> <code>PDF</code> <code>PNG</code> <code>Free</code></p>
+      <a href="https://free-invoice-generator.rhshoumik.dev/">Try it</a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>More on my portfolio</h3>
+      <a href="https://www.rhshoumik.dev/#projects">rhshoumik.dev/#projects →</a>
+    </td>
+  </tr>
 </table>
 
 <br>

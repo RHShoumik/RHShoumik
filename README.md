@@ -26,8 +26,13 @@ const ragib = {
   stack: ["TypeScript", "React", "Next.js", "Three.js", "Tailwind"],
   currently: "building 3D experiences on the web",
   funFact: "I turned my CV into a space game",
+  offline: "hiking to waterfalls across Bangladesh",
 };
 ```
+
+<a href="https://www.rhshoumik.dev/travel"><img src="assets/cover.jpg" alt="Ragib hiking: jungle trails, waterfalls and hilltops across Bangladesh — just living my best life" width="100%"></a>
+
+<p align="center"><sub>When I'm not shipping UI I'm usually on a trail. Stories from the road live on <a href="https://www.rhshoumik.dev/travel">rhshoumik.dev/travel</a>.</sub></p>
 
 <br>
 
